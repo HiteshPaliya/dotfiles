@@ -1,0 +1,36 @@
+[2022-03-12 22:28:59.115] [sharedprocess] [info] Starting worker process with pid 20044 (type: fileWatcher, window: 1).
+[2022-03-12 22:38:15.309] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-03-12 22:38:15.579] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-03-12 22:38:20.827] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/hitesh/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.14.1
+[2022-03-12 22:38:21.603] [sharedprocess] [info] Extracted extension to /home/hitesh/.vscode-oss/extensions/.850ca50d-fd5d-48e4-8297-31400d5b14bb: pkief.material-icon-theme
+[2022-03-12 22:38:21.611] [sharedprocess] [info] Renamed to /home/hitesh/.vscode-oss/extensions/pkief.material-icon-theme-4.14.1
+[2022-03-12 22:38:21.613] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-03-12 22:38:21.615] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-03-12 22:38:44.486] [sharedprocess] [info] Getting Manifest... coenraads.bracket-pair-colorizer-2
+[2022-03-12 22:38:44.774] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2022-03-12 22:38:47.023] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /home/hitesh/.config/Code - OSS/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.1.4
+[2022-03-12 22:38:47.142] [sharedprocess] [info] Extracted extension to /home/hitesh/.vscode-oss/extensions/.2e1093ed-6b4f-4327-9fce-833ef9723b79: coenraads.bracket-pair-colorizer-2
+[2022-03-12 22:38:47.148] [sharedprocess] [info] Renamed to /home/hitesh/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4
+[2022-03-12 22:38:47.149] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer-2
+[2022-03-12 22:38:47.150] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
+[2022-03-12 22:39:30.644] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-03-12 22:39:30.920] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-03-12 22:39:31.675] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-03-12 22:39:33.467] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-03-12 22:39:57.266] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/hitesh/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.2.1010641114
+[2022-03-12 22:39:57.927] [sharedprocess] [info] Extracted extension to /home/hitesh/.vscode-oss/extensions/.53bde1ef-0629-4511-85fc-d7eb94f33246: ms-toolsai.jupyter
+[2022-03-12 22:39:57.948] [sharedprocess] [info] Renamed to /home/hitesh/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114
+[2022-03-12 22:39:57.952] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-03-12 22:40:01.690] [sharedprocess] [info] Getting Manifest... golang.go
+[2022-03-12 22:40:02.116] [sharedprocess] [info] Installing extension: golang.go
+[2022-03-12 22:40:04.552] [sharedprocess] [info] Downloaded extension: golang.go /home/hitesh/.config/Code - OSS/CachedExtensionVSIXs/golang.go-0.32.0
+[2022-03-12 22:40:04.860] [sharedprocess] [info] Extracted extension to /home/hitesh/.vscode-oss/extensions/.1b68484b-1d7e-4a07-a7e8-c0faeb5c0b8c: golang.go
+[2022-03-12 22:40:04.893] [sharedprocess] [info] Renamed to /home/hitesh/.vscode-oss/extensions/golang.go-0.32.0
+[2022-03-12 22:40:04.916] [sharedprocess] [info] Extracting completed. golang.go
+[2022-03-12 22:40:04.926] [sharedprocess] [info] Extension installed successfully: golang.go
+[2022-03-12 22:40:22.870] [sharedprocess] [info] Downloaded extension: ms-python.python /home/hitesh/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.2.1924087327
+[2022-03-12 22:40:24.852] [sharedprocess] [info] Extracted extension to /home/hitesh/.vscode-oss/extensions/.8d7045b6-bbf9-4079-9901-7f28f9c19d46: ms-python.python
+[2022-03-12 22:40:24.862] [sharedprocess] [info] Renamed to /home/hitesh/.vscode-oss/extensions/ms-python.python-2022.2.1924087327
+[2022-03-12 22:40:24.865] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-03-12 22:40:24.870] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-03-12 22:40:24.870] [sharedprocess] [info] Extension installed successfully: ms-python.python
